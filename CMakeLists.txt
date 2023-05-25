@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.23)
-project(akinator)
+project(akinator C)
 
 file(GLOB LABS LIST_DIRECTORIES true "akinator/*")
 
