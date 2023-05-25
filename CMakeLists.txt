@@ -1,12 +1,8 @@
-cmake_minimum_required(VERSION 3.23)
+cmake_minimum_required(VERSION 3.24)
 project(akinator C)
 
-file(GLOB LABS LIST_DIRECTORIES true "akinator/*")
+set(CMAKE_C_STANDARD 11)
 
-foreach(LAB ${LABS})
-  if(IS_DIRECTORY ${LAB})
-    get_filename_component(TARGET ${LAB} NAME)
-    file(GLOB_RECURSE SOURCES "${LAB}/*.c")
-    add_executable(${TARGET} ${SOURCES})
-  endif()
-endforeach()
+add_executable(akinator akinator/main.c akinator/Header.h akinator/Source.c)
+
+
