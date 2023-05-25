@@ -1,0 +1,119 @@
+*Is it a cartoon?
+1Is the film based on real events?
+1Is this a superhero movie?
+1The events of the film take place in the real world?
+1The film takes place near the sea?
+1Is the movie called "Dune"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is there a character like Davey Jones in the movie?
+1Is the source of eternal youth mentioned in the film?
+1Is the movie called "Pirates of the Caribbean: At the End of the World"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is the movie called "Pirates of the Caribbean: on Stranger Tides"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is the movie called "Pirates of the Caribbean: Dead Man's Chest"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is it a horror movie?
+1Are the events of the film related to space?
+1The main character of the film calls himself a highly active sociopath?
+1Are the characters in the film connected with crimes?
+1Is the main character of the film a spy?
+1The main character of the film is over 25?
+1Is the movie called "Son"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is the movie called "Inferno"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is the movie called "No Time to Die"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Are the main characters of the film women?
+1Is the movie called "The Beginning"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is the movie called "Widows"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is the movie called "Sherlock Holmes"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+Is the movie called "Interstellar"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is the movie called "The Ring"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0The main character calls himself a polite neighbor?
+1Is the movie called "Batman"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is the movie called "Spider-Man"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0The film takes place in the XX century?
+1Is the movie called "12 Years a Slave"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is the movie called "Pearl Harbor"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is the main character of the cartoon an animal?
+1The cartoon is called "SpongeBob on the Run"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is the main character of the film a lion?
+1Is the cartoon called "Kung Fu Panda"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0The main character's name is Alex?
+1Is the cartoon called "The Lion King"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
+0Is the cartoon called "Madagascar"?
+1I don't know this object. Do you want to add it in the database?
+.
+0GREATE!!!
+.
